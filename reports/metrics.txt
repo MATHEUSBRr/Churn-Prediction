@@ -1,0 +1,12 @@
+Model: RandomForestClassifier(n_estimators=100, max_depth=7)
+
+              precision    recall  f1-score   support
+
+           0       0.75      0.93      0.83       859
+           1       0.69      0.32      0.44       391
+
+    accuracy                           0.74      1250
+   macro avg       0.72      0.63      0.63      1250
+weighted avg       0.73      0.74      0.71      1250
+
+ROC-AUC: 0.7765348990231309
